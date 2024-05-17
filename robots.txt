@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rubenrosales.xyz/al-folio/sitemap.xml
+Sitemap: https://rubenrosales.xyz/sitemap.xml
